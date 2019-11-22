@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://peilingcun.com/2019/11/21/hello-world/</loc>
-    <lastmod>2019-11-22</lastmod>
-  </url>  <url>
-    <loc>http://peilingcun.com/2019/11/22/My-first/</loc>
-    <lastmod>2019-11-22</lastmod>
-  </url>  <url>
     <loc>http://peilingcun.com/2019/11/22/My-first%20-%20%E5%89%AF%E6%9C%AC/</loc>
     <lastmod>2019-11-22</lastmod>
   </url>  <url>
-    <loc>http://peilingcun.com/2019/11/22/AboutMe/</loc>
+    <loc>http://peilingcun.com/2019/11/21/hello-world/</loc>
     <lastmod>2019-11-22</lastmod>
   </url>
 </urlset>
