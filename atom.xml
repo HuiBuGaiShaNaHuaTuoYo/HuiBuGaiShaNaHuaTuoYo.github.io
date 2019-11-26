@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://peilingcun.com/"/>
-  <updated>2019-11-22T04:58:57.890Z</updated>
+  <updated>2019-11-26T00:57:53.756Z</updated>
   <id>http://peilingcun.com/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>My first</title>
-    <link href="http://peilingcun.com/2019/11/22/My-first%20-%20%E5%89%AF%E6%9C%AC/"/>
-    <id>http://peilingcun.com/2019/11/22/My-first%20-%20%E5%89%AF%E6%9C%AC/</id>
+    <title>My first1 - 副本</title>
+    <link href="http://peilingcun.com/2019/11/22/My%20first1%20-%20%E5%89%AF%E6%9C%AC/"/>
+    <id>http://peilingcun.com/2019/11/22/My%20first1%20-%20%E5%89%AF%E6%9C%AC/</id>
     <published>2019-11-22T02:53:44.000Z</published>
-    <updated>2019-11-22T04:58:57.890Z</updated>
+    <updated>2019-11-26T00:57:53.756Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://peilingcun.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="测试" scheme="http://peilingcun.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>My first1</title>
+    <link href="http://peilingcun.com/2019/11/22/My%20first1/"/>
+    <id>http://peilingcun.com/2019/11/22/My%20first1/</id>
+    <published>2019-11-22T02:53:44.000Z</published>
+    <updated>2019-11-26T00:56:50.619Z</updated>
     
     <summary type="html">
     
